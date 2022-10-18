@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @musicfoot
+- 🌱 I’m currently learning C#
+- 📫 How to reach me: musicfoot14@gmail.com
